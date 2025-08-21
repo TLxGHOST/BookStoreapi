@@ -78,5 +78,6 @@ Content-Type: application/json
 - **DELETE /api/books/{id}** 
 
 ## Author 
- [Tejanshu Bhandari](https://github.com/TLxGHOST)
- [Harshit Raj](https://github.com/Haarshit19)
+-[Tejanshu Bhandari](https://github.com/TLxGHOST)
+-[Harshit Raj](https://github.com/Haarshit19)
+-[Maanveer Singh](https://github.com/Maanveer23)
